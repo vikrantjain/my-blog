@@ -3,6 +3,7 @@ title: "Monolith vs Microservices: The Real Question Is Modularity"
 datePublished: Fri Sep 23 2022 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmkv187p8000302ibgntpac4w
 slug: monolith-vs-microservices-the-real-question-is-modularity
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769424044450/7271bfa7-a3a0-441a-8448-6e39bd6fbfdb.jpeg
 tags: microservices, software-architecture, software-engineering, system-design, monolith, modular-design
 
 ---
