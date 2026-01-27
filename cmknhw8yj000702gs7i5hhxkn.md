@@ -252,6 +252,7 @@ When treated as a first-class architectural practice, documentation enforces int
 Teams don’t just fix incidents faster — they prevent entire categories of failures from happening at all.
 
 ---
-> [**Provide comments on LinkedIn** (No extra login required!)](https://www.linkedin.com/posts/vikrantj_softwarearchitecture-documentation-systemdesign-activity-7419733915051040768-d6Vb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAE5wE0BOQMw8zJ20QN54UvpVrw33kmUWjE) 
+
+> [**Provide comments on LinkedIn** (No extra login required!)](https://www.linkedin.com/posts/vikrantj_softwarearchitecture-documentation-systemdesign-activity-7419733915051040768-d6Vb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAE5wE0BOQMw8zJ20QN54UvpVrw33kmUWjE)
 
 > **Provide comments here** if you're a fellow Hashnode creator.
